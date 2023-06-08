@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color:red
+}
+
+.хобби{
+    border: 5px solid blue;
+    background-color: rgb(0, 145, 255);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.хобби p, .работа p, .друзья p{
+    color: white;
+
+}
+
+.хобби img, .работа img, .друзья img{
+    width: 300px;
+}
+
+.хобби p, .работа img p{
+    font-size: 20px;
+}
+.работа{
+    border: 5px solid green;
+    background-color: lightgreen;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.друзья{
+    border: 5px solid rgb(144, 10, 233);
+    background-color:rgb(145, 14, 221);
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+.линки  img{
+    width: 10px;
+    image-orientation: center;
+}
+.линки{
+    border: 2px solid grey;
+    background-color: white;
+
+}
